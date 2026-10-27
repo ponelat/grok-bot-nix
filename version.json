@@ -1,0 +1,15 @@
+{
+  "systems": {
+    "aarch64-linux": {
+      "commit": "fe85646036572e2b9a531b337a0dcb56a32f9369",
+      "hash": "sha256-/o3M2FZteM/Frd2IBMoGDA1SOzvQfCBmF+pMrvAXnAU=",
+      "url": "https://downloads.cursor.com/grokbot/stable/fe85646036572e2b9a531b337a0dcb56a32f9369/linux/arm64/Grok_Bot_0.77.0.AppImage"
+    },
+    "x86_64-linux": {
+      "commit": "fe85646036572e2b9a531b337a0dcb56a32f9369",
+      "hash": "sha256-bRFbuv9M9mlvA1T5sOAj/aa/6pwtMmy1Wd9gpgBaJVc=",
+      "url": "https://downloads.cursor.com/grokbot/stable/fe85646036572e2b9a531b337a0dcb56a32f9369/linux/x64/Grok_Bot_0.77.0.AppImage"
+    }
+  },
+  "version": "0.77.0"
+}
